@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <s:Double x:Key="StartupTop">234.66666666666666</s:Double>
+  <s:Double x:Key="StartupLeft">390</s:Double>
+  <s:Double x:Key="StartupHeight">220</s:Double>
+  <s:String x:Key="TemporaryFolder">%temp%</s:String>
+  <s:Double x:Key="StartupWidth">500</s:Double>
+  <WindowState x:Key="StartupWindowState">Normal</WindowState>
+</ResourceDictionary>
